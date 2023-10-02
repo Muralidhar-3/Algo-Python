@@ -44,12 +44,12 @@ def send_slack_notification(message):
         print(f"Error sending Slack notification: {e}")
 
 # Define the symbols of the NSE-listed stocks you want to track
-stock_list = ['GLENMARK.NS', 'CANBK.NS', 'BERGEPAINT.NS', 'CANBK.NS', 'M&M.NS', 
-              'BANKBARODA.NS','RBLBANK.NS', 'SBIN.NS', 'PNB.NS', 'WIPRO.NS', 'M&MFIN.NS',
-              'TITAN.NS', 'HDFCBANK.NS', 'HAL.NS', 'VEDL.NS', 'BANDHANBNK.NS', 'ULTRACEMCO.NS', 
-              'GODREJCP.NS', 'BAJAJFINSV.NS', 'POWERGRID.NS', 'MARUTI.NS', 'ASIANPAINT.NS', 'JSWSTEEL.NS', 
-              'BAJAJ-AUTO.NS', 'CHOLAFIN.NS', 'HDFCAMC.NS', 'LT.NS', 'CIPLA.NS', 'SBILIFE.NS', 'POLYCAB.NS',
-              'KOTAKBANK.NS', 'RELIANCE.NS', 'RECLTD.NS', 'BHARTIARTL.NS', 'TCS.NS'
+stock_list = ['MCX.NS', 'AUROPHARMA.NS', 'CHOLAFIN.NS', 'HINDALCO.NS', 'INDIACEM.NS', 
+              'MANAPPURAM.NS','TECHM.NS', 'LT.NS', 'ASIANPAINT.NS', 'INFY.NS', 'NATIONALUM.NS',
+              'VEDL.NS', 'WIPRO.NS', 'BERGEPAINT.NS', 'ZEEL.NS', 'DLF.NS', 'IBULHSGFIN.NS', 
+              'HAL.NS', 'DELTACORP.NS', 'TCS.NS', 'POWERGRID.NS', 'SAIL.NS', 'UPL.NS', 
+              'CROMPTON.NS', 'RECLTD.NS', 'PERSISTENT.NS', 'IDFCFIRSTB.NS', 'INDUSTOWER.NS', 'PFC.NS',
+              'ONGC.NS', 'POLYCAB.NS', 'NTPC.NS', 'HINDCOPPER.NS', 'TRENT.NS' 
               ]
 
 # Create a dictionary to store the last alert time for each stock
@@ -79,6 +79,8 @@ def check_entry_conditions(stock_symbol, stock_data):
 
         # Check entry conditions
         for idx, row in data.iterrows():
+            # ranges = f"{stock_symbol} : high :  {high_of_opening_range} , low :  {low_of_opening_range}"
+            # print(ranges)
             if idx.time() > dt_time(9, 30) and idx.time() <= dt_time(15, 30):
                 if not high_crossed and row['Close'] > high_of_opening_range:
                     # Check if enough time has passed since the last alert
@@ -89,6 +91,7 @@ def check_entry_conditions(stock_symbol, stock_data):
                     ):
                         message = f"{stock_symbol} ORB High breakout by : {latestPrice} at {idx.strftime('%H:%M %m-%d')}"
                         # print(message)
+                        # print("check")
                         # send_slack_notification(message)
                         last_alert_time[stock_symbol] = idx
                     high_crossed = True
@@ -150,6 +153,7 @@ def check_entry_conditions(stock_symbol, stock_data):
 
 def main(stock_list):
     while True:
+        
         for stock_symbol in stock_list:
             check_entry_conditions(stock_symbol, stock_data)
         time.sleep(30)  # Check every 5 minutes (adjust as needed)

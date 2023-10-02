@@ -6,7 +6,6 @@ import warnings
 import requests
 import json
 
-
 # Ignore FutureWarnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
@@ -44,12 +43,15 @@ def send_slack_notification(message):
         print(f"Error sending Slack notification: {e}")
 
 # Define the symbols of the NSE-listed stocks you want to track
-stock_list = ['GLENMARK.NS', 'CANBK.NS', 'BERGEPAINT.NS', 'CANBK.NS', 'M&M.NS', 
-              'BANKBARODA.NS','RBLBANK.NS', 'SBIN.NS', 'PNB.NS', 'WIPRO.NS', 'M&MFIN.NS',
-              'TITAN.NS', 'HDFCBANK.NS', 'HAL.NS', 'VEDL.NS', 'BANDHANBNK.NS', 'ULTRACEMCO.NS', 
-              'GODREJCP.NS', 'BAJAJFINSV.NS', 'POWERGRID.NS', 'MARUTI.NS', 'ASIANPAINT.NS', 'JSWSTEEL.NS', 
-              'BAJAJ-AUTO.NS', 'CHOLAFIN.NS', 'HDFCAMC.NS', 'LT.NS', 'CIPLA.NS', 'SBILIFE.NS', 'POLYCAB.NS',
-              'KOTAKBANK.NS', 'RELIANCE.NS', 'RECLTD.NS', 'BHARTIARTL.NS', 'TCS.NS'
+stock_list = ['CHAMBLFERT.NS', 'BAJFINANCE.NS', 'DELTACORP.NS', 'GRANULES.NS', 'BERGEPAINT.NS', 
+              'TECHM.NS','DIXON.NS', 'LTIM.NS', 'MARUTI.NS', 'CANBK.NS', 'BAJAJ-AUTO.NS',
+              'ASIANPAINT.NS', 'HDFCBANK.NS', 'BAJAJFINSV.NS', 'BHEL.NS', 'PNB.NS', 'IRCTC.NS', 
+              'M&M.NS', 'POLYCAB.NS', 'INFY.NS', 'TCS.NS', 'ZEEL.NS', 'APOLLOHOSP.NS', 
+              'AXISBANK.NS', 'RBLBANK.NS', 'RELIANCE.NS', 'WIPRO.NS', 'ONGC.NS', 'BANKBARODA.NS', 'SAIL.NS',
+              'GLENMARK.NS', 'AMBUJACEM.NS', 'CHOLAFIN.NS', 'INDUSTOWER.NS', 'HAL.NS',
+
+              'CANFINHOME.NS', 'GODREJPROP.NS', 'EXIDEIND.NS', 'COROMANDEL.NS', 'RAMCOCEM.NS', 'SBICARD.NS', 
+              'JKCEMENT.NS', 'ICICIGI.NS', 'TVSMOTOR.NS', 'CONCOR.NS', 'L&TFH.NS', 'ZYDUSLIFE.NS'
               ]
 
 # Create a dictionary to store the last alert time for each stock

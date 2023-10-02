@@ -93,7 +93,7 @@ def save_stock_data_to_json():
             file_name = f"stock_data_{today_date}.json"
             
             # Save the stock data to a JSON file
-            with open('stock_data.json', 'w') as json_file:
+            with open(file_name, 'w') as json_file:
                 json.dump(stock_data, json_file, indent=4)
             print("Stock data saved to stock_data.json")
     
