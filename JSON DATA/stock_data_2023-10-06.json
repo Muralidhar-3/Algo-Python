@@ -1,0 +1,818 @@
+{
+    "HDFCBANK.NS": {
+        "Day Range High": 1544.800048828125,
+        "Day Range Low": 1532.050048828125
+    },
+    "ICICIBANK.NS": {
+        "Day Range High": 946.0,
+        "Day Range Low": 938.0
+    },
+    "AXISBANK.NS": {
+        "Day Range High": 1008.0,
+        "Day Range Low": 999.4000244140625
+    },
+    "SBIN.NS": {
+        "Day Range High": 598.9500122070312,
+        "Day Range Low": 592.4500122070312
+    },
+    "BAJFINANCE.NS": {
+        "Day Range High": 8191.5498046875,
+        "Day Range Low": 7872.5498046875
+    },
+    "BAJAJFINSV.NS": {
+        "Day Range High": 1640.199951171875,
+        "Day Range Low": 1551.5
+    },
+    "HDFCAMC.NS": {
+        "Day Range High": 2737.0,
+        "Day Range Low": 2648.550048828125
+    },
+    "SHRIRAMFIN.NS": {
+        "Day Range High": 1863.0,
+        "Day Range Low": 1835.0
+    },
+    "ICICIGI.NS": {
+        "Day Range High": 1326.199951171875,
+        "Day Range Low": 1296.0
+    },
+    "SBILIFE.NS": {
+        "Day Range High": 1287.5,
+        "Day Range Low": 1272.050048828125
+    },
+    "MUTHOOTFIN.NS": {
+        "Day Range High": 1211.949951171875,
+        "Day Range Low": 1189.0999755859375
+    },
+    "CHOLAFIN.NS": {
+        "Day Range High": 1226.9000244140625,
+        "Day Range Low": 1199.050048828125
+    },
+    "PEL.NS": {
+        "Day Range High": 1083.0,
+        "Day Range Low": 1061.0
+    },
+    "HDFCLIFE.NS": {
+        "Day Range High": 636.2000122070312,
+        "Day Range Low": 622.7999877929688
+    },
+    "ICICIPRULI.NS": {
+        "Day Range High": 560.2000122070312,
+        "Day Range Low": 550.75
+    },
+    "M&MFIN.NS": {
+        "Day Range High": 293.3999938964844,
+        "Day Range Low": 286.95001220703125
+    },
+    "IBULHSGFIN.NS": {
+        "Day Range High": 173.9499969482422,
+        "Day Range Low": 168.9499969482422
+    },
+    "CANBK.NS": {
+        "Day Range High": 380.8500061035156,
+        "Day Range Low": 371.1499938964844
+    },
+    "FEDERALBNK.NS": {
+        "Day Range High": 147.0,
+        "Day Range Low": 144.10000610351562
+    },
+    "AUBANK.NS": {
+        "Day Range High": 720.0,
+        "Day Range Low": 712.5499877929688
+    },
+    "PNB.NS": {
+        "Day Range High": 78.19999694824219,
+        "Day Range Low": 76.0999984741211
+    },
+    "KOTAKBANK.NS": {
+        "Day Range High": 1747.0,
+        "Day Range Low": 1731.0999755859375
+    },
+    "BANKBARODA.NS": {
+        "Day Range High": 216.0,
+        "Day Range Low": 212.39999389648438
+    },
+    "BANDHANBNK.NS": {
+        "Day Range High": 255.0,
+        "Day Range Low": 247.85000610351562
+    },
+    "INDUSINDBK.NS": {
+        "Day Range High": 1437.699951171875,
+        "Day Range Low": 1403.050048828125
+    },
+    "RBLBANK.NS": {
+        "Day Range High": 248.89999389648438,
+        "Day Range Low": 242.4499969482422
+    },
+    "IOB.NS": {
+        "Day Range High": 47.25,
+        "Day Range Low": 45.29999923706055
+    },
+    "INDIANB.NS": {
+        "Day Range High": 432.8500061035156,
+        "Day Range Low": 423.1499938964844
+    },
+    "UCOBANK.NS": {
+        "Day Range High": 44.04999923706055,
+        "Day Range Low": 42.400001525878906
+    },
+    "PSB.NS": {
+        "Day Range High": 45.79999923706055,
+        "Day Range Low": 44.599998474121094
+    },
+    "CENTRALBK.NS": {
+        "Day Range High": 50.349998474121094,
+        "Day Range Low": 48.70000076293945
+    },
+    "MAHABANK.NS": {
+        "Day Range High": 49.25,
+        "Day Range Low": 48.0
+    },
+    "BANKINDIA.NS": {
+        "Day Range High": 110.4000015258789,
+        "Day Range Low": 107.55000305175781
+    },
+    "UNIONBANK.NS": {
+        "Day Range High": 107.5,
+        "Day Range Low": 103.94999694824219
+    },
+    "J&KBANK.NS": {
+        "Day Range High": 115.9000015258789,
+        "Day Range Low": 107.69999694824219
+    },
+    "BAJAJ-AUTO.NS": {
+        "Day Range High": 5080.0,
+        "Day Range Low": 5001.0
+    },
+    "HEROMOTOCO.NS": {
+        "Day Range High": 3044.89990234375,
+        "Day Range Low": 3023.949951171875
+    },
+    "M&M.NS": {
+        "Day Range High": 1554.0,
+        "Day Range Low": 1540.3499755859375
+    },
+    "BHARATFORG.NS": {
+        "Day Range High": 1094.699951171875,
+        "Day Range Low": 1072.5
+    },
+    "MARUTI.NS": {
+        "Day Range High": 10332.5,
+        "Day Range Low": 10260.0
+    },
+    "TATAMOTORS.NS": {
+        "Day Range High": 626.7999877929688,
+        "Day Range Low": 620.0
+    },
+    "EICHERMOT.NS": {
+        "Day Range High": 3464.449951171875,
+        "Day Range Low": 3440.64990234375
+    },
+    "MOTHERSON.NS": {
+        "Day Range High": 93.1500015258789,
+        "Day Range Low": 92.0999984741211
+    },
+    "MRF.NS": {
+        "Day Range High": 108000.0,
+        "Day Range Low": 107000.0
+    },
+    "EXIDEIND.NS": {
+        "Day Range High": 260.0,
+        "Day Range Low": 257.3999938964844
+    },
+    "BALKRISIND.NS": {
+        "Day Range High": 2591.64990234375,
+        "Day Range Low": 2553.85009765625
+    },
+    "AMARAJABAT.NS": {
+        "Day Range High": 646.0499877929688,
+        "Day Range Low": 640.2999877929688
+    },
+    "TVSMOTOR.NS": {
+        "Day Range High": 1516.449951171875,
+        "Day Range Low": 1498.25
+    },
+    "BOSCHLTD.NS": {
+        "Day Range High": 19342.0,
+        "Day Range Low": 18900.0
+    },
+    "ASHOKLEY.NS": {
+        "Day Range High": 173.3000030517578,
+        "Day Range Low": 170.85000610351562
+    },
+    "ESCORTS.NS": {
+        "Day Range High": 3273.85009765625,
+        "Day Range Low": 3184.449951171875
+    },
+    "DABUR.NS": {
+        "Day Range High": 551.8499755859375,
+        "Day Range Low": 545.9000244140625
+    },
+    "HINDUNILVR.NS": {
+        "Day Range High": 2512.60009765625,
+        "Day Range Low": 2494.800048828125
+    },
+    "MCDOWELL-N.NS": {
+        "Day Range High": 1026.550048828125,
+        "Day Range Low": 1008.2000122070312
+    },
+    "ITC.NS": {
+        "Day Range High": 443.54998779296875,
+        "Day Range Low": 437.04998779296875
+    },
+    "BRITANNIA.NS": {
+        "Day Range High": 4547.35009765625,
+        "Day Range Low": 4515.0
+    },
+    "TATACONSUM.NS": {
+        "Day Range High": 877.2999877929688,
+        "Day Range Low": 863.0999755859375
+    },
+    "NESTLEIND.NS": {
+        "Day Range High": 23067.599609375,
+        "Day Range Low": 22814.900390625
+    },
+    "GODREJCP.NS": {
+        "Day Range High": 988.5499877929688,
+        "Day Range Low": 965.2000122070312
+    },
+    "COLPAL.NS": {
+        "Day Range High": 2004.449951171875,
+        "Day Range Low": 1982.0
+    },
+    "UBL.NS": {
+        "Day Range High": 1569.949951171875,
+        "Day Range Low": 1551.0
+    },
+    "MARICO.NS": {
+        "Day Range High": 545.0999755859375,
+        "Day Range Low": 536.6500244140625
+    },
+    "JUBLFOOD.NS": {
+        "Day Range High": 538.75,
+        "Day Range Low": 528.7999877929688
+    },
+    "TECHM.NS": {
+        "Day Range High": 1223.0,
+        "Day Range Low": 1205.699951171875
+    },
+    "INFY.NS": {
+        "Day Range High": 1484.449951171875,
+        "Day Range Low": 1463.3499755859375
+    },
+    "HCLTECH.NS": {
+        "Day Range High": 1255.800048828125,
+        "Day Range Low": 1232.050048828125
+    },
+    "LTTS.NS": {
+        "Day Range High": 4689.64990234375,
+        "Day Range Low": 4636.7998046875
+    },
+    "TCS.NS": {
+        "Day Range High": 3634.699951171875,
+        "Day Range Low": 3575.64990234375
+    },
+    "BSOFT.NS": {
+        "Day Range High": 520.4000244140625,
+        "Day Range Low": 509.3500061035156
+    },
+    "LTIM.NS": {
+        "Day Range High": 5264.9501953125,
+        "Day Range Low": 5216.75
+    },
+    "WIPRO.NS": {
+        "Day Range High": 409.79998779296875,
+        "Day Range Low": 407.0
+    },
+    "PERSISTENT.NS": {
+        "Day Range High": 5798.9501953125,
+        "Day Range Low": 5710.0498046875
+    },
+    "OFSS.NS": {
+        "Day Range High": 4108.60009765625,
+        "Day Range Low": 4020.10009765625
+    },
+    "NAUKRI.NS": {
+        "Day Range High": 4229.89990234375,
+        "Day Range Low": 4183.0
+    },
+    "MPHASIS.NS": {
+        "Day Range High": 2496.5,
+        "Day Range Low": 2456.5
+    },
+    "COFORGE.NS": {
+        "Day Range High": 5242.9501953125,
+        "Day Range Low": 5166.25
+    },
+    "TV18BRDCST.NS": {
+        "Day Range High": 47.900001525878906,
+        "Day Range Low": 46.0
+    },
+    "NETWORK18.NS": {
+        "Day Range High": 75.75,
+        "Day Range Low": 72.05000305175781
+    },
+    "ZEEL.NS": {
+        "Day Range High": 261.6499938964844,
+        "Day Range Low": 258.8999938964844
+    },
+    "PVRINOX.NS": {
+        "Day Range High": 1718.0,
+        "Day Range Low": 1696.050048828125
+    },
+    "SUNTV.NS": {
+        "Day Range High": 637.0,
+        "Day Range Low": 628.1500244140625
+    },
+    "VEDL.NS": {
+        "Day Range High": 224.0,
+        "Day Range Low": 220.89999389648438
+    },
+    "JSWSTEEL.NS": {
+        "Day Range High": 770.7999877929688,
+        "Day Range Low": 758.8499755859375
+    },
+    "HINDALCO.NS": {
+        "Day Range High": 476.3500061035156,
+        "Day Range Low": 469.3500061035156
+    },
+    "COALINDIA.NS": {
+        "Day Range High": 290.8999938964844,
+        "Day Range Low": 287.1000061035156
+    },
+    "NMDC.NS": {
+        "Day Range High": 147.60000610351562,
+        "Day Range Low": 145.60000610351562
+    },
+    "TATASTEEL.NS": {
+        "Day Range High": 127.0,
+        "Day Range Low": 125.0999984741211
+    },
+    "JINDALSTEL.NS": {
+        "Day Range High": 697.9000244140625,
+        "Day Range Low": 681.6500244140625
+    },
+    "HINDZINC.NS": {
+        "Day Range High": 306.3999938964844,
+        "Day Range Low": 302.6000061035156
+    },
+    "NATIONALUM.NS": {
+        "Day Range High": 95.44999694824219,
+        "Day Range Low": 94.5
+    },
+    "SAIL.NS": {
+        "Day Range High": 90.25,
+        "Day Range Low": 88.69999694824219
+    },
+    "HINDCOPPER.NS": {
+        "Day Range High": 155.6999969482422,
+        "Day Range Low": 153.1999969482422
+    },
+    "GLENMARK.NS": {
+        "Day Range High": 799.5499877929688,
+        "Day Range Low": 785.5999755859375
+    },
+    "LALPATHLAB.NS": {
+        "Day Range High": 2483.0,
+        "Day Range Low": 2435.800048828125
+    },
+    "METROPOLIS.NS": {
+        "Day Range High": 1474.800048828125,
+        "Day Range Low": 1435.0
+    },
+    "BIOCON.NS": {
+        "Day Range High": 265.5,
+        "Day Range Low": 263.5
+    },
+    "ZYDUSLIFE.NS": {
+        "Day Range High": 610.4000244140625,
+        "Day Range Low": 599.6500244140625
+    },
+    "DRREDDY.NS": {
+        "Day Range High": 5487.2001953125,
+        "Day Range Low": 5411.2998046875
+    },
+    "CIPLA.NS": {
+        "Day Range High": 1181.550048828125,
+        "Day Range Low": 1160.5999755859375
+    },
+    "SUNPHARMA.NS": {
+        "Day Range High": 1131.050048828125,
+        "Day Range Low": 1123.0999755859375
+    },
+    "ALKEM.NS": {
+        "Day Range High": 3535.0,
+        "Day Range Low": 3468.0
+    },
+    "APLLTD.NS": {
+        "Day Range High": 785.4500122070312,
+        "Day Range Low": 770.6500244140625
+    },
+    "DIVISLAB.NS": {
+        "Day Range High": 3727.800048828125,
+        "Day Range Low": 3700.0
+    },
+    "GRANULES.NS": {
+        "Day Range High": 365.1499938964844,
+        "Day Range Low": 352.5
+    },
+    "LUPIN.NS": {
+        "Day Range High": 1167.949951171875,
+        "Day Range Low": 1152.5999755859375
+    },
+    "TORNTPHARM.NS": {
+        "Day Range High": 1898.949951171875,
+        "Day Range Low": 1855.949951171875
+    },
+    "LAURUSLABS.NS": {
+        "Day Range High": 404.0,
+        "Day Range Low": 395.0
+    },
+    "AUROPHARMA.NS": {
+        "Day Range High": 903.0,
+        "Day Range Low": 878.7999877929688
+    },
+    "YESBANK.NS": {
+        "Day Range High": 17.5,
+        "Day Range Low": 17.200000762939453
+    },
+    "IDFCFIRSTB.NS": {
+        "Day Range High": 92.44999694824219,
+        "Day Range Low": 90.69999694824219
+    },
+    "PHOENIXLTD.NS": {
+        "Day Range High": 1814.9000244140625,
+        "Day Range Low": 1764.5999755859375
+    },
+    "GODREJPROP.NS": {
+        "Day Range High": 1686.5,
+        "Day Range Low": 1600.0
+    },
+    "DLF.NS": {
+        "Day Range High": 550.5,
+        "Day Range Low": 525.7000122070312
+    },
+    "SUNTECK.NS": {
+        "Day Range High": 454.3999938964844,
+        "Day Range Low": 444.1000061035156
+    },
+    "HEMIPROP.NS": {
+        "Day Range High": 115.75,
+        "Day Range Low": 113.80000305175781
+    },
+    "OBEROIRLTY.NS": {
+        "Day Range High": 1118.550048828125,
+        "Day Range Low": 1073.800048828125
+    },
+    "BRIGADE.NS": {
+        "Day Range High": 595.0999755859375,
+        "Day Range Low": 580.9500122070312
+    },
+    "IBREALEST.NS": {
+        "Day Range High": 83.0,
+        "Day Range Low": 79.6500015258789
+    },
+    "PRESTIGE.NS": {
+        "Day Range High": 683.0,
+        "Day Range Low": 665.2000122070312
+    },
+    "SOBHA.NS": {
+        "Day Range High": 728.9000244140625,
+        "Day Range Low": 706.0999755859375
+    },
+    "ADANIGREEN.NS": {
+        "Day Range High": 968.9500122070312,
+        "Day Range Low": 958.5499877929688
+    },
+    "GSPL.NS": {
+        "Day Range High": 291.29998779296875,
+        "Day Range Low": 285.1499938964844
+    },
+    "HINDPETRO.NS": {
+        "Day Range High": 259.29998779296875,
+        "Day Range Low": 253.0
+    },
+    "POWERGRID.NS": {
+        "Day Range High": 197.4499969482422,
+        "Day Range Low": 194.89999389648438
+    },
+    "GUJGASLTD.NS": {
+        "Day Range High": 425.54998779296875,
+        "Day Range Low": 421.1000061035156
+    },
+    "IOC.NS": {
+        "Day Range High": 90.0,
+        "Day Range Low": 89.3499984741211
+    },
+    "BPCL.NS": {
+        "Day Range High": 348.20001220703125,
+        "Day Range Low": 344.0
+    },
+    "PETRONET.NS": {
+        "Day Range High": 233.3000030517578,
+        "Day Range Low": 229.4499969482422
+    },
+    "RELIANCE.NS": {
+        "Day Range High": 2324.800048828125,
+        "Day Range Low": 2312.10009765625
+    },
+    "ONGC.NS": {
+        "Day Range High": 183.39999389648438,
+        "Day Range Low": 180.60000610351562
+    },
+    "GAIL.NS": {
+        "Day Range High": 125.1500015258789,
+        "Day Range Low": 122.55000305175781
+    },
+    "NTPC.NS": {
+        "Day Range High": 237.5,
+        "Day Range Low": 233.6999969482422
+    },
+    "MGL.NS": {
+        "Day Range High": 1123.449951171875,
+        "Day Range Low": 1101.0
+    },
+    "IGL.NS": {
+        "Day Range High": 463.25,
+        "Day Range Low": 457.04998779296875
+    },
+    "TATAPOWER.NS": {
+        "Day Range High": 259.8500061035156,
+        "Day Range Low": 258.04998779296875
+    },
+    "TORNTPOWER.NS": {
+        "Day Range High": 736.1500244140625,
+        "Day Range Low": 725.2999877929688
+    },
+    "ADANIENSOL.NS": {
+        "Day Range High": 815.75,
+        "Day Range Low": 804.5
+    },
+    "DIXON.NS": {
+        "Day Range High": 5173.75,
+        "Day Range Low": 5062.39990234375
+    },
+    "INDIACEM.NS": {
+        "Day Range High": 232.5,
+        "Day Range Low": 228.10000610351562
+    },
+    "GMRINFRA.NS": {
+        "Day Range High": 61.79999923706055,
+        "Day Range Low": 59.29999923706055
+    },
+    "IDFC.NS": {
+        "Day Range High": 125.5,
+        "Day Range Low": 123.44999694824219
+    },
+    "ASTRAL.NS": {
+        "Day Range High": 1895.0,
+        "Day Range Low": 1856.6500244140625
+    },
+    "INDHOTEL.NS": {
+        "Day Range High": 424.6499938964844,
+        "Day Range Low": 418.3500061035156
+    },
+    "GNFC.NS": {
+        "Day Range High": 618.0,
+        "Day Range Low": 610.4500122070312
+    },
+    "TATACHEM.NS": {
+        "Day Range High": 1014.7999877929688,
+        "Day Range Low": 1005.2999877929688
+    },
+    "HAVELLS.NS": {
+        "Day Range High": 1419.0,
+        "Day Range Low": 1395.0
+    },
+    "CROMPTON.NS": {
+        "Day Range High": 301.79998779296875,
+        "Day Range Low": 299.20001220703125
+    },
+    "IRCTC.NS": {
+        "Day Range High": 721.7000122070312,
+        "Day Range Low": 714.0
+    },
+    "UPL.NS": {
+        "Day Range High": 612.7999877929688,
+        "Day Range Low": 605.0499877929688
+    },
+    "INDUSTOWER.NS": {
+        "Day Range High": 184.35000610351562,
+        "Day Range Low": 180.5
+    },
+    "MANAPPURAM.NS": {
+        "Day Range High": 143.39999389648438,
+        "Day Range Low": 140.25
+    },
+    "APOLLOHOSP.NS": {
+        "Day Range High": 5084.0,
+        "Day Range Low": 5030.0498046875
+    },
+    "APOLLOTYRE.NS": {
+        "Day Range High": 382.1499938964844,
+        "Day Range Low": 373.04998779296875
+    },
+    "DEEPAKNTR.NS": {
+        "Day Range High": 2129.35009765625,
+        "Day Range Low": 2101.0
+    },
+    "BALRAMCHIN.NS": {
+        "Day Range High": 433.70001220703125,
+        "Day Range Low": 425.04998779296875
+    },
+    "PFC.NS": {
+        "Day Range High": 248.25,
+        "Day Range Low": 238.3000030517578
+    },
+    "HAL.NS": {
+        "Day Range High": 1964.0,
+        "Day Range Low": 1943.050048828125
+    },
+    "SBICARD.NS": {
+        "Day Range High": 801.8499755859375,
+        "Day Range Low": 788.75
+    },
+    "MCX.NS": {
+        "Day Range High": 2050.0,
+        "Day Range Low": 1948.5999755859375
+    },
+    "PIIND.NS": {
+        "Day Range High": 3439.0,
+        "Day Range Low": 3393.050048828125
+    },
+    "SHREECEM.NS": {
+        "Day Range High": 25898.30078125,
+        "Day Range Low": 25552.05078125
+    },
+    "PAGEIND.NS": {
+        "Day Range High": 39565.05078125,
+        "Day Range Low": 39101.19921875
+    },
+    "INDIAMART.NS": {
+        "Day Range High": 2904.5,
+        "Day Range Low": 2863.39990234375
+    },
+    "AMBUJACEM.NS": {
+        "Day Range High": 437.0,
+        "Day Range Low": 431.79998779296875
+    },
+    "SRF.NS": {
+        "Day Range High": 2275.300048828125,
+        "Day Range Low": 2238.0
+    },
+    "COROMANDEL.NS": {
+        "Day Range High": 1174.0,
+        "Day Range Low": 1157.4000244140625
+    },
+    "RAMCOCEM.NS": {
+        "Day Range High": 957.8499755859375,
+        "Day Range Low": 940.75
+    },
+    "NAVINFLUOR.NS": {
+        "Day Range High": 3745.0,
+        "Day Range Low": 3698.699951171875
+    },
+    "ABCAPITAL.NS": {
+        "Day Range High": 182.10000610351562,
+        "Day Range Low": 176.14999389648438
+    },
+    "ABB.NS": {
+        "Day Range High": 4145.0,
+        "Day Range Low": 4068.75
+    },
+    "JKCEMENT.NS": {
+        "Day Range High": 3165.0,
+        "Day Range Low": 3126.699951171875
+    },
+    "BATAINDIA.NS": {
+        "Day Range High": 1630.449951171875,
+        "Day Range Low": 1612.25
+    },
+    "ABBOTINDIA.NS": {
+        "Day Range High": 23107.099609375,
+        "Day Range Low": 22829.94921875
+    },
+    "MFSL.NS": {
+        "Day Range High": 923.9500122070312,
+        "Day Range Low": 913.25
+    },
+    "CUMMINSIND.NS": {
+        "Day Range High": 1709.949951171875,
+        "Day Range Low": 1688.8499755859375
+    },
+    "SIEMENS.NS": {
+        "Day Range High": 3575.0,
+        "Day Range Low": 3502.0
+    },
+    "IEX.NS": {
+        "Day Range High": 134.35000610351562,
+        "Day Range Low": 132.35000610351562
+    },
+    "ATUL.NS": {
+        "Day Range High": 7038.9501953125,
+        "Day Range Low": 6962.4501953125
+    },
+    "ACC.NS": {
+        "Day Range High": 2021.699951171875,
+        "Day Range Low": 1997.300048828125
+    },
+    "DELTACORP.NS": {
+        "Day Range High": 138.1999969482422,
+        "Day Range Low": 137.0500030517578
+    },
+    "CONCOR.NS": {
+        "Day Range High": 716.2000122070312,
+        "Day Range Low": 708.5499877929688
+    },
+    "DALBHARAT.NS": {
+        "Day Range High": 2269.75,
+        "Day Range Low": 2206.85009765625
+    },
+    "INDIGO.NS": {
+        "Day Range High": 2555.050048828125,
+        "Day Range Low": 2505.5
+    },
+    "LT.NS": {
+        "Day Range High": 3113.050048828125,
+        "Day Range Low": 3073.199951171875
+    },
+    "L&TFH.NS": {
+        "Day Range High": 138.4499969482422,
+        "Day Range Low": 131.25
+    },
+    "BEL.NS": {
+        "Day Range High": 140.39999389648438,
+        "Day Range Low": 138.64999389648438
+    },
+    "ABFRL.NS": {
+        "Day Range High": 221.0,
+        "Day Range Low": 218.10000610351562
+    },
+    "RECLTD.NS": {
+        "Day Range High": 286.79998779296875,
+        "Day Range Low": 278.29998779296875
+    },
+    "BHARTIARTL.NS": {
+        "Day Range High": 928.5999755859375,
+        "Day Range Low": 924.4000244140625
+    },
+    "ADANIENT.NS": {
+        "Day Range High": 2514.75,
+        "Day Range Low": 2466.050048828125
+    },
+    "GRASIM.NS": {
+        "Day Range High": 1905.9000244140625,
+        "Day Range Low": 1890.050048828125
+    },
+    "AARTIIND.NS": {
+        "Day Range High": 490.8999938964844,
+        "Day Range Low": 484.04998779296875
+    },
+    "PIDILITIND.NS": {
+        "Day Range High": 2456.89990234375,
+        "Day Range Low": 2429.39990234375
+    },
+    "CHAMBLFERT.NS": {
+        "Day Range High": 275.3999938964844,
+        "Day Range Low": 272.25
+    },
+    "CUB.NS": {
+        "Day Range High": 129.8000030517578,
+        "Day Range Low": 125.19999694824219
+    },
+    "BERGEPAINT.NS": {
+        "Day Range High": 567.9500122070312,
+        "Day Range Low": 562.5
+    },
+    "ULTRACEMCO.NS": {
+        "Day Range High": 8239.599609375,
+        "Day Range Low": 8152.0
+    },
+    "BHEL.NS": {
+        "Day Range High": 129.8000030517578,
+        "Day Range Low": 127.55000305175781
+    },
+    "SYNGENE.NS": {
+        "Day Range High": 794.5,
+        "Day Range Low": 781.9000244140625
+    },
+    "CANFINHOME.NS": {
+        "Day Range High": 776.9000244140625,
+        "Day Range Low": 759.2000122070312
+    },
+    "VOLTAS.NS": {
+        "Day Range High": 888.0,
+        "Day Range Low": 879.5
+    },
+    "ADANIPORTS.NS": {
+        "Day Range High": 836.5,
+        "Day Range Low": 826.4000244140625
+    },
+    "TATACOMM.NS": {
+        "Day Range High": 1859.300048828125,
+        "Day Range Low": 1821.0
+    },
+    "TITAN.NS": {
+        "Day Range High": 3319.5,
+        "Day Range Low": 3227.199951171875
+    }
+}

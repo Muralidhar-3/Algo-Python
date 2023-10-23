@@ -1,0 +1,1022 @@
+{
+    "HDFCBANK.NS": {
+        "Day Range High": 1544.800048828125,
+        "Day Range Low": 1532.050048828125,
+        "Closing Price": 1535.0
+    },
+    "ICICIBANK.NS": {
+        "Day Range High": 946.0,
+        "Day Range Low": 938.0,
+        "Closing Price": 945.0999755859375
+    },
+    "AXISBANK.NS": {
+        "Day Range High": 1008.0,
+        "Day Range Low": 999.4000244140625,
+        "Closing Price": 1002.8499755859375
+    },
+    "SBIN.NS": {
+        "Day Range High": 598.9500122070312,
+        "Day Range Low": 592.4500122070312,
+        "Closing Price": 594.2000122070312
+    },
+    "BAJFINANCE.NS": {
+        "Day Range High": 8191.5498046875,
+        "Day Range Low": 7872.5498046875,
+        "Closing Price": 8150.0
+    },
+    "BAJAJFINSV.NS": {
+        "Day Range High": 1640.199951171875,
+        "Day Range Low": 1551.5,
+        "Closing Price": 1628.949951171875
+    },
+    "HDFCAMC.NS": {
+        "Day Range High": 2737.0,
+        "Day Range Low": 2648.550048828125,
+        "Closing Price": 2726.14990234375
+    },
+    "SHRIRAMFIN.NS": {
+        "Day Range High": 1863.0,
+        "Day Range Low": 1835.0,
+        "Closing Price": 1848.8499755859375
+    },
+    "ICICIGI.NS": {
+        "Day Range High": 1326.199951171875,
+        "Day Range Low": 1296.0,
+        "Closing Price": 1318.050048828125
+    },
+    "SBILIFE.NS": {
+        "Day Range High": 1287.5,
+        "Day Range Low": 1272.050048828125,
+        "Closing Price": 1284.199951171875
+    },
+    "MUTHOOTFIN.NS": {
+        "Day Range High": 1211.949951171875,
+        "Day Range Low": 1189.0999755859375,
+        "Closing Price": 1203.0999755859375
+    },
+    "CHOLAFIN.NS": {
+        "Day Range High": 1226.9000244140625,
+        "Day Range Low": 1199.050048828125,
+        "Closing Price": 1218.5
+    },
+    "PEL.NS": {
+        "Day Range High": 1083.0,
+        "Day Range Low": 1061.0,
+        "Closing Price": 1070.3499755859375
+    },
+    "HDFCLIFE.NS": {
+        "Day Range High": 636.2000122070312,
+        "Day Range Low": 622.7999877929688,
+        "Closing Price": 630.9000244140625
+    },
+    "ICICIPRULI.NS": {
+        "Day Range High": 560.2000122070312,
+        "Day Range Low": 550.75,
+        "Closing Price": 559.3499755859375
+    },
+    "M&MFIN.NS": {
+        "Day Range High": 293.3999938964844,
+        "Day Range Low": 286.95001220703125,
+        "Closing Price": 289.20001220703125
+    },
+    "IBULHSGFIN.NS": {
+        "Day Range High": 173.9499969482422,
+        "Day Range Low": 168.9499969482422,
+        "Closing Price": 172.60000610351562
+    },
+    "CANBK.NS": {
+        "Day Range High": 380.8500061035156,
+        "Day Range Low": 371.1499938964844,
+        "Closing Price": 375.5
+    },
+    "FEDERALBNK.NS": {
+        "Day Range High": 147.0,
+        "Day Range Low": 144.10000610351562,
+        "Closing Price": 146.6999969482422
+    },
+    "AUBANK.NS": {
+        "Day Range High": 720.0,
+        "Day Range Low": 712.5499877929688,
+        "Closing Price": 713.5499877929688
+    },
+    "PNB.NS": {
+        "Day Range High": 78.19999694824219,
+        "Day Range Low": 76.0999984741211,
+        "Closing Price": 76.5999984741211
+    },
+    "KOTAKBANK.NS": {
+        "Day Range High": 1747.0,
+        "Day Range Low": 1731.0999755859375,
+        "Closing Price": 1743.9000244140625
+    },
+    "BANKBARODA.NS": {
+        "Day Range High": 216.0,
+        "Day Range Low": 212.39999389648438,
+        "Closing Price": 215.0
+    },
+    "BANDHANBNK.NS": {
+        "Day Range High": 255.0,
+        "Day Range Low": 247.85000610351562,
+        "Closing Price": 252.5
+    },
+    "INDUSINDBK.NS": {
+        "Day Range High": 1437.699951171875,
+        "Day Range Low": 1403.050048828125,
+        "Closing Price": 1433.0999755859375
+    },
+    "RBLBANK.NS": {
+        "Day Range High": 248.89999389648438,
+        "Day Range Low": 242.4499969482422,
+        "Closing Price": 247.1999969482422
+    },
+    "IOB.NS": {
+        "Day Range High": 47.25,
+        "Day Range Low": 45.29999923706055,
+        "Closing Price": 46.29999923706055
+    },
+    "INDIANB.NS": {
+        "Day Range High": 432.8500061035156,
+        "Day Range Low": 423.1499938964844,
+        "Closing Price": 425.75
+    },
+    "UCOBANK.NS": {
+        "Day Range High": 44.04999923706055,
+        "Day Range Low": 42.400001525878906,
+        "Closing Price": 43.25
+    },
+    "PSB.NS": {
+        "Day Range High": 45.79999923706055,
+        "Day Range Low": 44.599998474121094,
+        "Closing Price": 45.5
+    },
+    "CENTRALBK.NS": {
+        "Day Range High": 50.349998474121094,
+        "Day Range Low": 48.70000076293945,
+        "Closing Price": 49.900001525878906
+    },
+    "MAHABANK.NS": {
+        "Day Range High": 49.25,
+        "Day Range Low": 48.0,
+        "Closing Price": 48.5
+    },
+    "BANKINDIA.NS": {
+        "Day Range High": 110.4000015258789,
+        "Day Range Low": 107.55000305175781,
+        "Closing Price": 108.6500015258789
+    },
+    "UNIONBANK.NS": {
+        "Day Range High": 107.5,
+        "Day Range Low": 103.94999694824219,
+        "Closing Price": 105.05000305175781
+    },
+    "J&KBANK.NS": {
+        "Day Range High": 115.9000015258789,
+        "Day Range Low": 107.69999694824219,
+        "Closing Price": 114.5
+    },
+    "BAJAJ-AUTO.NS": {
+        "Day Range High": 5080.0,
+        "Day Range Low": 5001.0,
+        "Closing Price": 5014.60009765625
+    },
+    "HEROMOTOCO.NS": {
+        "Day Range High": 3044.89990234375,
+        "Day Range Low": 3023.949951171875,
+        "Closing Price": 3038.0
+    },
+    "M&M.NS": {
+        "Day Range High": 1554.0,
+        "Day Range Low": 1540.3499755859375,
+        "Closing Price": 1542.949951171875
+    },
+    "BHARATFORG.NS": {
+        "Day Range High": 1094.699951171875,
+        "Day Range Low": 1072.5,
+        "Closing Price": 1091.9000244140625
+    },
+    "MARUTI.NS": {
+        "Day Range High": 10332.5,
+        "Day Range Low": 10260.0,
+        "Closing Price": 10299.900390625
+    },
+    "TATAMOTORS.NS": {
+        "Day Range High": 626.7999877929688,
+        "Day Range Low": 620.0,
+        "Closing Price": 622.4500122070312
+    },
+    "EICHERMOT.NS": {
+        "Day Range High": 3464.449951171875,
+        "Day Range Low": 3440.64990234375,
+        "Closing Price": 3450.39990234375
+    },
+    "MOTHERSON.NS": {
+        "Day Range High": 93.1500015258789,
+        "Day Range Low": 92.0999984741211,
+        "Closing Price": 92.6500015258789
+    },
+    "MRF.NS": {
+        "Day Range High": 108000.0,
+        "Day Range Low": 107000.0,
+        "Closing Price": 107550.25
+    },
+    "EXIDEIND.NS": {
+        "Day Range High": 260.0,
+        "Day Range Low": 257.3999938964844,
+        "Closing Price": 258.8500061035156
+    },
+    "BALKRISIND.NS": {
+        "Day Range High": 2591.64990234375,
+        "Day Range Low": 2553.85009765625,
+        "Closing Price": 2562.050048828125
+    },
+    "AMARAJABAT.NS": {
+        "Day Range High": 646.0499877929688,
+        "Day Range Low": 640.2999877929688,
+        "Closing Price": 645.9000244140625
+    },
+    "TVSMOTOR.NS": {
+        "Day Range High": 1516.449951171875,
+        "Day Range Low": 1498.25,
+        "Closing Price": 1506.1500244140625
+    },
+    "BOSCHLTD.NS": {
+        "Day Range High": 19342.0,
+        "Day Range Low": 18900.0,
+        "Closing Price": 19303.94921875
+    },
+    "ASHOKLEY.NS": {
+        "Day Range High": 173.3000030517578,
+        "Day Range Low": 170.85000610351562,
+        "Closing Price": 172.0
+    },
+    "ESCORTS.NS": {
+        "Day Range High": 3273.85009765625,
+        "Day Range Low": 3184.449951171875,
+        "Closing Price": 3194.199951171875
+    },
+    "DABUR.NS": {
+        "Day Range High": 551.8499755859375,
+        "Day Range Low": 545.9000244140625,
+        "Closing Price": 547.1500244140625
+    },
+    "HINDUNILVR.NS": {
+        "Day Range High": 2512.60009765625,
+        "Day Range Low": 2494.800048828125,
+        "Closing Price": 2499.60009765625
+    },
+    "MCDOWELL-N.NS": {
+        "Day Range High": 1026.550048828125,
+        "Day Range Low": 1008.2000122070312,
+        "Closing Price": 1026.5
+    },
+    "ITC.NS": {
+        "Day Range High": 443.54998779296875,
+        "Day Range Low": 437.04998779296875,
+        "Closing Price": 442.54998779296875
+    },
+    "BRITANNIA.NS": {
+        "Day Range High": 4547.35009765625,
+        "Day Range Low": 4515.0,
+        "Closing Price": 4538.4501953125
+    },
+    "TATACONSUM.NS": {
+        "Day Range High": 877.2999877929688,
+        "Day Range Low": 863.0999755859375,
+        "Closing Price": 874.9000244140625
+    },
+    "NESTLEIND.NS": {
+        "Day Range High": 23067.599609375,
+        "Day Range Low": 22814.900390625,
+        "Closing Price": 22900.0
+    },
+    "GODREJCP.NS": {
+        "Day Range High": 988.5499877929688,
+        "Day Range Low": 965.2000122070312,
+        "Closing Price": 972.0
+    },
+    "COLPAL.NS": {
+        "Day Range High": 2004.449951171875,
+        "Day Range Low": 1982.0,
+        "Closing Price": 1992.550048828125
+    },
+    "UBL.NS": {
+        "Day Range High": 1569.949951171875,
+        "Day Range Low": 1551.0,
+        "Closing Price": 1561.949951171875
+    },
+    "MARICO.NS": {
+        "Day Range High": 545.0999755859375,
+        "Day Range Low": 536.6500244140625,
+        "Closing Price": 537.4000244140625
+    },
+    "JUBLFOOD.NS": {
+        "Day Range High": 538.75,
+        "Day Range Low": 528.7999877929688,
+        "Closing Price": 532.9000244140625
+    },
+    "TECHM.NS": {
+        "Day Range High": 1223.0,
+        "Day Range Low": 1205.699951171875,
+        "Closing Price": 1216.9000244140625
+    },
+    "INFY.NS": {
+        "Day Range High": 1484.449951171875,
+        "Day Range Low": 1463.3499755859375,
+        "Closing Price": 1478.699951171875
+    },
+    "HCLTECH.NS": {
+        "Day Range High": 1255.800048828125,
+        "Day Range Low": 1232.050048828125,
+        "Closing Price": 1235.699951171875
+    },
+    "LTTS.NS": {
+        "Day Range High": 4689.64990234375,
+        "Day Range Low": 4636.7998046875,
+        "Closing Price": 4658.0
+    },
+    "TCS.NS": {
+        "Day Range High": 3634.699951171875,
+        "Day Range Low": 3575.64990234375,
+        "Closing Price": 3621.25
+    },
+    "BSOFT.NS": {
+        "Day Range High": 520.4000244140625,
+        "Day Range Low": 509.3500061035156,
+        "Closing Price": 514.0
+    },
+    "LTIM.NS": {
+        "Day Range High": 5264.9501953125,
+        "Day Range Low": 5216.75,
+        "Closing Price": 5239.2001953125
+    },
+    "WIPRO.NS": {
+        "Day Range High": 409.79998779296875,
+        "Day Range Low": 407.0,
+        "Closing Price": 407.45001220703125
+    },
+    "PERSISTENT.NS": {
+        "Day Range High": 5798.9501953125,
+        "Day Range Low": 5710.0498046875,
+        "Closing Price": 5749.0
+    },
+    "OFSS.NS": {
+        "Day Range High": 4108.60009765625,
+        "Day Range Low": 4020.10009765625,
+        "Closing Price": 4105.0
+    },
+    "NAUKRI.NS": {
+        "Day Range High": 4229.89990234375,
+        "Day Range Low": 4183.0,
+        "Closing Price": 4200.0
+    },
+    "MPHASIS.NS": {
+        "Day Range High": 2496.5,
+        "Day Range Low": 2456.5,
+        "Closing Price": 2491.0
+    },
+    "COFORGE.NS": {
+        "Day Range High": 5242.9501953125,
+        "Day Range Low": 5166.25,
+        "Closing Price": 5185.5498046875
+    },
+    "TV18BRDCST.NS": {
+        "Day Range High": 47.900001525878906,
+        "Day Range Low": 46.0,
+        "Closing Price": 46.20000076293945
+    },
+    "NETWORK18.NS": {
+        "Day Range High": 75.75,
+        "Day Range Low": 72.05000305175781,
+        "Closing Price": 72.4000015258789
+    },
+    "ZEEL.NS": {
+        "Day Range High": 261.6499938964844,
+        "Day Range Low": 258.8999938964844,
+        "Closing Price": 260.1000061035156
+    },
+    "PVRINOX.NS": {
+        "Day Range High": 1718.0,
+        "Day Range Low": 1696.050048828125,
+        "Closing Price": 1705.0
+    },
+    "SUNTV.NS": {
+        "Day Range High": 637.0,
+        "Day Range Low": 628.1500244140625,
+        "Closing Price": 629.8499755859375
+    },
+    "VEDL.NS": {
+        "Day Range High": 224.0,
+        "Day Range Low": 220.89999389648438,
+        "Closing Price": 222.4499969482422
+    },
+    "JSWSTEEL.NS": {
+        "Day Range High": 770.7999877929688,
+        "Day Range Low": 758.8499755859375,
+        "Closing Price": 762.7999877929688
+    },
+    "HINDALCO.NS": {
+        "Day Range High": 476.3500061035156,
+        "Day Range Low": 469.3500061035156,
+        "Closing Price": 472.6000061035156
+    },
+    "COALINDIA.NS": {
+        "Day Range High": 290.8999938964844,
+        "Day Range Low": 287.1000061035156,
+        "Closing Price": 287.5
+    },
+    "NMDC.NS": {
+        "Day Range High": 147.60000610351562,
+        "Day Range Low": 145.60000610351562,
+        "Closing Price": 145.9499969482422
+    },
+    "TATASTEEL.NS": {
+        "Day Range High": 127.0,
+        "Day Range Low": 125.0999984741211,
+        "Closing Price": 125.8499984741211
+    },
+    "JINDALSTEL.NS": {
+        "Day Range High": 697.9000244140625,
+        "Day Range Low": 681.6500244140625,
+        "Closing Price": 683.9000244140625
+    },
+    "HINDZINC.NS": {
+        "Day Range High": 306.3999938964844,
+        "Day Range Low": 302.6000061035156,
+        "Closing Price": 305.5
+    },
+    "NATIONALUM.NS": {
+        "Day Range High": 95.44999694824219,
+        "Day Range Low": 94.5,
+        "Closing Price": 95.0
+    },
+    "SAIL.NS": {
+        "Day Range High": 90.25,
+        "Day Range Low": 88.69999694824219,
+        "Closing Price": 88.8499984741211
+    },
+    "HINDCOPPER.NS": {
+        "Day Range High": 155.6999969482422,
+        "Day Range Low": 153.1999969482422,
+        "Closing Price": 154.85000610351562
+    },
+    "GLENMARK.NS": {
+        "Day Range High": 799.5499877929688,
+        "Day Range Low": 785.5999755859375,
+        "Closing Price": 793.5999755859375
+    },
+    "LALPATHLAB.NS": {
+        "Day Range High": 2483.0,
+        "Day Range Low": 2435.800048828125,
+        "Closing Price": 2477.949951171875
+    },
+    "METROPOLIS.NS": {
+        "Day Range High": 1474.800048828125,
+        "Day Range Low": 1435.0,
+        "Closing Price": 1471.050048828125
+    },
+    "BIOCON.NS": {
+        "Day Range High": 265.5,
+        "Day Range Low": 263.5,
+        "Closing Price": 264.95001220703125
+    },
+    "ZYDUSLIFE.NS": {
+        "Day Range High": 610.4000244140625,
+        "Day Range Low": 599.6500244140625,
+        "Closing Price": 603.75
+    },
+    "DRREDDY.NS": {
+        "Day Range High": 5487.2001953125,
+        "Day Range Low": 5411.2998046875,
+        "Closing Price": 5424.89990234375
+    },
+    "CIPLA.NS": {
+        "Day Range High": 1181.550048828125,
+        "Day Range Low": 1160.5999755859375,
+        "Closing Price": 1163.0
+    },
+    "SUNPHARMA.NS": {
+        "Day Range High": 1131.050048828125,
+        "Day Range Low": 1123.0999755859375,
+        "Closing Price": 1127.300048828125
+    },
+    "ALKEM.NS": {
+        "Day Range High": 3535.0,
+        "Day Range Low": 3468.0,
+        "Closing Price": 3522.5
+    },
+    "APLLTD.NS": {
+        "Day Range High": 785.4500122070312,
+        "Day Range Low": 770.6500244140625,
+        "Closing Price": 772.8499755859375
+    },
+    "DIVISLAB.NS": {
+        "Day Range High": 3727.800048828125,
+        "Day Range Low": 3700.0,
+        "Closing Price": 3722.0
+    },
+    "GRANULES.NS": {
+        "Day Range High": 365.1499938964844,
+        "Day Range Low": 352.5,
+        "Closing Price": 361.70001220703125
+    },
+    "LUPIN.NS": {
+        "Day Range High": 1167.949951171875,
+        "Day Range Low": 1152.5999755859375,
+        "Closing Price": 1156.199951171875
+    },
+    "TORNTPHARM.NS": {
+        "Day Range High": 1898.949951171875,
+        "Day Range Low": 1855.949951171875,
+        "Closing Price": 1894.050048828125
+    },
+    "LAURUSLABS.NS": {
+        "Day Range High": 404.0,
+        "Day Range Low": 395.0,
+        "Closing Price": 399.0
+    },
+    "AUROPHARMA.NS": {
+        "Day Range High": 903.0,
+        "Day Range Low": 878.7999877929688,
+        "Closing Price": 900.8499755859375
+    },
+    "YESBANK.NS": {
+        "Day Range High": 17.5,
+        "Day Range Low": 17.200000762939453,
+        "Closing Price": 17.350000381469727
+    },
+    "IDFCFIRSTB.NS": {
+        "Day Range High": 92.44999694824219,
+        "Day Range Low": 90.69999694824219,
+        "Closing Price": 91.44999694824219
+    },
+    "PHOENIXLTD.NS": {
+        "Day Range High": 1814.9000244140625,
+        "Day Range Low": 1764.5999755859375,
+        "Closing Price": 1790.25
+    },
+    "GODREJPROP.NS": {
+        "Day Range High": 1686.5,
+        "Day Range Low": 1600.0,
+        "Closing Price": 1672.5999755859375
+    },
+    "DLF.NS": {
+        "Day Range High": 550.5,
+        "Day Range Low": 525.7000122070312,
+        "Closing Price": 548.4000244140625
+    },
+    "SUNTECK.NS": {
+        "Day Range High": 454.3999938964844,
+        "Day Range Low": 444.1000061035156,
+        "Closing Price": 454.0
+    },
+    "HEMIPROP.NS": {
+        "Day Range High": 115.75,
+        "Day Range Low": 113.80000305175781,
+        "Closing Price": 114.5
+    },
+    "OBEROIRLTY.NS": {
+        "Day Range High": 1118.550048828125,
+        "Day Range Low": 1073.800048828125,
+        "Closing Price": 1109.0
+    },
+    "BRIGADE.NS": {
+        "Day Range High": 595.0999755859375,
+        "Day Range Low": 580.9500122070312,
+        "Closing Price": 593.2999877929688
+    },
+    "IBREALEST.NS": {
+        "Day Range High": 83.0,
+        "Day Range Low": 79.6500015258789,
+        "Closing Price": 82.8499984741211
+    },
+    "PRESTIGE.NS": {
+        "Day Range High": 683.0,
+        "Day Range Low": 665.2000122070312,
+        "Closing Price": 669.7000122070312
+    },
+    "SOBHA.NS": {
+        "Day Range High": 728.9000244140625,
+        "Day Range Low": 706.0999755859375,
+        "Closing Price": 712.8499755859375
+    },
+    "ADANIGREEN.NS": {
+        "Day Range High": 968.9500122070312,
+        "Day Range Low": 958.5499877929688,
+        "Closing Price": 959.9500122070312
+    },
+    "GSPL.NS": {
+        "Day Range High": 291.29998779296875,
+        "Day Range Low": 285.1499938964844,
+        "Closing Price": 289.04998779296875
+    },
+    "HINDPETRO.NS": {
+        "Day Range High": 259.29998779296875,
+        "Day Range Low": 253.0,
+        "Closing Price": 257.75
+    },
+    "POWERGRID.NS": {
+        "Day Range High": 197.4499969482422,
+        "Day Range Low": 194.89999389648438,
+        "Closing Price": 196.9499969482422
+    },
+    "GUJGASLTD.NS": {
+        "Day Range High": 425.54998779296875,
+        "Day Range Low": 421.1000061035156,
+        "Closing Price": 424.29998779296875
+    },
+    "IOC.NS": {
+        "Day Range High": 90.0,
+        "Day Range Low": 89.3499984741211,
+        "Closing Price": 89.75
+    },
+    "BPCL.NS": {
+        "Day Range High": 348.20001220703125,
+        "Day Range Low": 344.0,
+        "Closing Price": 347.29998779296875
+    },
+    "PETRONET.NS": {
+        "Day Range High": 233.3000030517578,
+        "Day Range Low": 229.4499969482422,
+        "Closing Price": 230.4499969482422
+    },
+    "RELIANCE.NS": {
+        "Day Range High": 2324.800048828125,
+        "Day Range Low": 2312.10009765625,
+        "Closing Price": 2317.550048828125
+    },
+    "ONGC.NS": {
+        "Day Range High": 183.39999389648438,
+        "Day Range Low": 180.60000610351562,
+        "Closing Price": 181.5
+    },
+    "GAIL.NS": {
+        "Day Range High": 125.1500015258789,
+        "Day Range Low": 122.55000305175781,
+        "Closing Price": 124.30000305175781
+    },
+    "NTPC.NS": {
+        "Day Range High": 237.5,
+        "Day Range Low": 233.6999969482422,
+        "Closing Price": 234.5
+    },
+    "MGL.NS": {
+        "Day Range High": 1123.449951171875,
+        "Day Range Low": 1101.0,
+        "Closing Price": 1113.550048828125
+    },
+    "IGL.NS": {
+        "Day Range High": 463.25,
+        "Day Range Low": 457.04998779296875,
+        "Closing Price": 459.8500061035156
+    },
+    "TATAPOWER.NS": {
+        "Day Range High": 259.8500061035156,
+        "Day Range Low": 258.04998779296875,
+        "Closing Price": 258.8500061035156
+    },
+    "TORNTPOWER.NS": {
+        "Day Range High": 736.1500244140625,
+        "Day Range Low": 725.2999877929688,
+        "Closing Price": 730.0499877929688
+    },
+    "ADANIENSOL.NS": {
+        "Day Range High": 815.75,
+        "Day Range Low": 804.5,
+        "Closing Price": 806.0
+    },
+    "DIXON.NS": {
+        "Day Range High": 5173.75,
+        "Day Range Low": 5062.39990234375,
+        "Closing Price": 5139.0
+    },
+    "INDIACEM.NS": {
+        "Day Range High": 232.5,
+        "Day Range Low": 228.10000610351562,
+        "Closing Price": 230.6999969482422
+    },
+    "GMRINFRA.NS": {
+        "Day Range High": 61.79999923706055,
+        "Day Range Low": 59.29999923706055,
+        "Closing Price": 61.650001525878906
+    },
+    "IDFC.NS": {
+        "Day Range High": 125.5,
+        "Day Range Low": 123.44999694824219,
+        "Closing Price": 124.6500015258789
+    },
+    "ASTRAL.NS": {
+        "Day Range High": 1895.0,
+        "Day Range Low": 1856.6500244140625,
+        "Closing Price": 1889.4000244140625
+    },
+    "INDHOTEL.NS": {
+        "Day Range High": 424.6499938964844,
+        "Day Range Low": 418.3500061035156,
+        "Closing Price": 422.75
+    },
+    "GNFC.NS": {
+        "Day Range High": 618.0,
+        "Day Range Low": 610.4500122070312,
+        "Closing Price": 615.9000244140625
+    },
+    "TATACHEM.NS": {
+        "Day Range High": 1014.7999877929688,
+        "Day Range Low": 1005.2999877929688,
+        "Closing Price": 1014.5
+    },
+    "HAVELLS.NS": {
+        "Day Range High": 1419.0,
+        "Day Range Low": 1395.0,
+        "Closing Price": 1398.4000244140625
+    },
+    "CROMPTON.NS": {
+        "Day Range High": 301.79998779296875,
+        "Day Range Low": 299.20001220703125,
+        "Closing Price": 300.8999938964844
+    },
+    "IRCTC.NS": {
+        "Day Range High": 721.7000122070312,
+        "Day Range Low": 714.0,
+        "Closing Price": 718.75
+    },
+    "UPL.NS": {
+        "Day Range High": 612.7999877929688,
+        "Day Range Low": 605.0499877929688,
+        "Closing Price": 612.5
+    },
+    "INDUSTOWER.NS": {
+        "Day Range High": 184.35000610351562,
+        "Day Range Low": 180.5,
+        "Closing Price": 180.9499969482422
+    },
+    "MANAPPURAM.NS": {
+        "Day Range High": 143.39999389648438,
+        "Day Range Low": 140.25,
+        "Closing Price": 143.10000610351562
+    },
+    "APOLLOHOSP.NS": {
+        "Day Range High": 5084.0,
+        "Day Range Low": 5030.0498046875,
+        "Closing Price": 5060.25
+    },
+    "APOLLOTYRE.NS": {
+        "Day Range High": 382.1499938964844,
+        "Day Range Low": 373.04998779296875,
+        "Closing Price": 380.6000061035156
+    },
+    "DEEPAKNTR.NS": {
+        "Day Range High": 2129.35009765625,
+        "Day Range Low": 2101.0,
+        "Closing Price": 2108.5
+    },
+    "BALRAMCHIN.NS": {
+        "Day Range High": 433.70001220703125,
+        "Day Range Low": 425.04998779296875,
+        "Closing Price": 430.25
+    },
+    "PFC.NS": {
+        "Day Range High": 248.25,
+        "Day Range Low": 238.3000030517578,
+        "Closing Price": 246.4499969482422
+    },
+    "HAL.NS": {
+        "Day Range High": 1964.0,
+        "Day Range Low": 1943.050048828125,
+        "Closing Price": 1954.949951171875
+    },
+    "SBICARD.NS": {
+        "Day Range High": 801.8499755859375,
+        "Day Range Low": 788.75,
+        "Closing Price": 798.1500244140625
+    },
+    "MCX.NS": {
+        "Day Range High": 2050.0,
+        "Day Range Low": 1948.5999755859375,
+        "Closing Price": 2047.800048828125
+    },
+    "PIIND.NS": {
+        "Day Range High": 3439.0,
+        "Day Range Low": 3393.050048828125,
+        "Closing Price": 3420.699951171875
+    },
+    "SHREECEM.NS": {
+        "Day Range High": 25898.30078125,
+        "Day Range Low": 25552.05078125,
+        "Closing Price": 25787.25
+    },
+    "PAGEIND.NS": {
+        "Day Range High": 39565.05078125,
+        "Day Range Low": 39101.19921875,
+        "Closing Price": 39413.8515625
+    },
+    "INDIAMART.NS": {
+        "Day Range High": 2904.5,
+        "Day Range Low": 2863.39990234375,
+        "Closing Price": 2870.0
+    },
+    "AMBUJACEM.NS": {
+        "Day Range High": 437.0,
+        "Day Range Low": 431.79998779296875,
+        "Closing Price": 435.3999938964844
+    },
+    "SRF.NS": {
+        "Day Range High": 2275.300048828125,
+        "Day Range Low": 2238.0,
+        "Closing Price": 2245.0
+    },
+    "COROMANDEL.NS": {
+        "Day Range High": 1174.0,
+        "Day Range Low": 1157.4000244140625,
+        "Closing Price": 1171.449951171875
+    },
+    "RAMCOCEM.NS": {
+        "Day Range High": 957.8499755859375,
+        "Day Range Low": 940.75,
+        "Closing Price": 947.75
+    },
+    "NAVINFLUOR.NS": {
+        "Day Range High": 3745.0,
+        "Day Range Low": 3698.699951171875,
+        "Closing Price": 3723.0
+    },
+    "ABCAPITAL.NS": {
+        "Day Range High": 182.10000610351562,
+        "Day Range Low": 176.14999389648438,
+        "Closing Price": 181.5
+    },
+    "ABB.NS": {
+        "Day Range High": 4145.0,
+        "Day Range Low": 4068.75,
+        "Closing Price": 4129.89990234375
+    },
+    "JKCEMENT.NS": {
+        "Day Range High": 3165.0,
+        "Day Range Low": 3126.699951171875,
+        "Closing Price": 3161.050048828125
+    },
+    "BATAINDIA.NS": {
+        "Day Range High": 1630.449951171875,
+        "Day Range Low": 1612.25,
+        "Closing Price": 1623.5999755859375
+    },
+    "ABBOTINDIA.NS": {
+        "Day Range High": 23107.099609375,
+        "Day Range Low": 22829.94921875,
+        "Closing Price": 23040.0
+    },
+    "MFSL.NS": {
+        "Day Range High": 923.9500122070312,
+        "Day Range Low": 913.25,
+        "Closing Price": 917.6500244140625
+    },
+    "CUMMINSIND.NS": {
+        "Day Range High": 1709.949951171875,
+        "Day Range Low": 1688.8499755859375,
+        "Closing Price": 1702.0999755859375
+    },
+    "SIEMENS.NS": {
+        "Day Range High": 3575.0,
+        "Day Range Low": 3502.0,
+        "Closing Price": 3533.0
+    },
+    "IEX.NS": {
+        "Day Range High": 134.35000610351562,
+        "Day Range Low": 132.35000610351562,
+        "Closing Price": 133.6999969482422
+    },
+    "ATUL.NS": {
+        "Day Range High": 7038.9501953125,
+        "Day Range Low": 6962.4501953125,
+        "Closing Price": 7025.0498046875
+    },
+    "ACC.NS": {
+        "Day Range High": 2021.699951171875,
+        "Day Range Low": 1997.300048828125,
+        "Closing Price": 2008.0
+    },
+    "DELTACORP.NS": {
+        "Day Range High": 138.1999969482422,
+        "Day Range Low": 137.0500030517578,
+        "Closing Price": 137.5
+    },
+    "CONCOR.NS": {
+        "Day Range High": 716.2000122070312,
+        "Day Range Low": 708.5499877929688,
+        "Closing Price": 713.2999877929688
+    },
+    "DALBHARAT.NS": {
+        "Day Range High": 2269.75,
+        "Day Range Low": 2206.85009765625,
+        "Closing Price": 2225.800048828125
+    },
+    "INDIGO.NS": {
+        "Day Range High": 2555.050048828125,
+        "Day Range Low": 2505.5,
+        "Closing Price": 2535.5
+    },
+    "LT.NS": {
+        "Day Range High": 3113.050048828125,
+        "Day Range Low": 3073.199951171875,
+        "Closing Price": 3093.699951171875
+    },
+    "L&TFH.NS": {
+        "Day Range High": 138.4499969482422,
+        "Day Range Low": 131.25,
+        "Closing Price": 137.35000610351562
+    },
+    "BEL.NS": {
+        "Day Range High": 140.39999389648438,
+        "Day Range Low": 138.64999389648438,
+        "Closing Price": 139.0
+    },
+    "ABFRL.NS": {
+        "Day Range High": 221.0,
+        "Day Range Low": 218.10000610351562,
+        "Closing Price": 219.0
+    },
+    "RECLTD.NS": {
+        "Day Range High": 286.79998779296875,
+        "Day Range Low": 278.29998779296875,
+        "Closing Price": 285.5
+    },
+    "BHARTIARTL.NS": {
+        "Day Range High": 928.5999755859375,
+        "Day Range Low": 924.4000244140625,
+        "Closing Price": 926.0499877929688
+    },
+    "ADANIENT.NS": {
+        "Day Range High": 2514.75,
+        "Day Range Low": 2466.050048828125,
+        "Closing Price": 2478.10009765625
+    },
+    "GRASIM.NS": {
+        "Day Range High": 1905.9000244140625,
+        "Day Range Low": 1890.050048828125,
+        "Closing Price": 1903.300048828125
+    },
+    "AARTIIND.NS": {
+        "Day Range High": 490.8999938964844,
+        "Day Range Low": 484.04998779296875,
+        "Closing Price": 486.79998779296875
+    },
+    "PIDILITIND.NS": {
+        "Day Range High": 2456.89990234375,
+        "Day Range Low": 2429.39990234375,
+        "Closing Price": 2454.35009765625
+    },
+    "CHAMBLFERT.NS": {
+        "Day Range High": 275.3999938964844,
+        "Day Range Low": 272.25,
+        "Closing Price": 274.3500061035156
+    },
+    "CUB.NS": {
+        "Day Range High": 129.8000030517578,
+        "Day Range Low": 125.19999694824219,
+        "Closing Price": 129.4499969482422
+    },
+    "BERGEPAINT.NS": {
+        "Day Range High": 567.9500122070312,
+        "Day Range Low": 562.5,
+        "Closing Price": 565.0999755859375
+    },
+    "ULTRACEMCO.NS": {
+        "Day Range High": 8239.599609375,
+        "Day Range Low": 8152.0,
+        "Closing Price": 8195.4501953125
+    },
+    "BHEL.NS": {
+        "Day Range High": 129.8000030517578,
+        "Day Range Low": 127.55000305175781,
+        "Closing Price": 128.85000610351562
+    },
+    "SYNGENE.NS": {
+        "Day Range High": 794.5,
+        "Day Range Low": 781.9000244140625,
+        "Closing Price": 792.1500244140625
+    },
+    "CANFINHOME.NS": {
+        "Day Range High": 776.9000244140625,
+        "Day Range Low": 759.2000122070312,
+        "Closing Price": 773.7000122070312
+    },
+    "VOLTAS.NS": {
+        "Day Range High": 888.0,
+        "Day Range Low": 879.5,
+        "Closing Price": 885.0
+    },
+    "ADANIPORTS.NS": {
+        "Day Range High": 836.5,
+        "Day Range Low": 826.4000244140625,
+        "Closing Price": 830.0
+    },
+    "TATACOMM.NS": {
+        "Day Range High": 1859.300048828125,
+        "Day Range Low": 1821.0,
+        "Closing Price": 1837.800048828125
+    },
+    "TITAN.NS": {
+        "Day Range High": 3319.5,
+        "Day Range Low": 3227.199951171875,
+        "Closing Price": 3307.0
+    }
+}

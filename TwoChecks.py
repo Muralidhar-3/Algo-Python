@@ -44,12 +44,13 @@ def send_slack_notification(message):
         print(f"Error sending Slack notification: {e}")
 
 # Define the symbols of the NSE-listed stocks you want to track
-stock_list = ['MCX.NS', 'AUROPHARMA.NS', 'CHOLAFIN.NS', 'HINDALCO.NS', 'INDIACEM.NS', 
-              'MANAPPURAM.NS','TECHM.NS', 'LT.NS', 'ASIANPAINT.NS', 'INFY.NS', 'NATIONALUM.NS',
-              'VEDL.NS', 'WIPRO.NS', 'BERGEPAINT.NS', 'ZEEL.NS', 'DLF.NS', 'IBULHSGFIN.NS', 
-              'HAL.NS', 'DELTACORP.NS', 'TCS.NS', 'POWERGRID.NS', 'SAIL.NS', 'UPL.NS', 
-              'CROMPTON.NS', 'RECLTD.NS', 'PERSISTENT.NS', 'IDFCFIRSTB.NS', 'INDUSTOWER.NS', 'PFC.NS',
-              'ONGC.NS', 'POLYCAB.NS', 'NTPC.NS', 'HINDCOPPER.NS', 'TRENT.NS' 
+stock_list = ['UBL.NS', 'IGL.NS', 'BAJAJ-AUTO.NS', 'HAVELLS.NS', 'LTIM.NS',
+              'ABFRL.NS', 'VOLTAS.NS', 'HINDUNILVR.NS', 'ULTRACEMCO.NS', 'PVRINOX.NS', 'MPHASIS.NS',
+              'TATACOMM.NS', 'HINDCOPPER.NS', 'ITC.NS', 'TATAMOTORS.NS', 'COFORGE.NS', 'BAJFINANCE.NS', 
+              'NTPC.NS', 'ADANIENT.NS', 'POLYCAB.NS', 'ONGC.NS', 'BANDHANBNK.NS', 'FEDERALBNK.NS', 
+              'PERSISTENT.NS', 'POWERGRID.NS', 'RELIANCE.NS', 'DABUR.NS', 'HEROMOTOCO.NS', 'MCX.NS',
+              'COALINDIA.NS', 'MARUTI.NS', 'CROMPTON.NS', 'DIVISLAB.NS', 'INDIGO.NS', 'GNFC.NS',
+              'KOTAKBANK.NS', 'ADANIPORTS.NS', 'WIPRO.NS', 'DIXON.NS'
               ]
 
 # Create a dictionary to store the last alert time for each stock
@@ -156,7 +157,7 @@ def main(stock_list):
         
         for stock_symbol in stock_list:
             check_entry_conditions(stock_symbol, stock_data)
-        time.sleep(30)  # Check every 5 minutes (adjust as needed)
+        time.sleep(30)  # Check every 30 seconds (adjust as needed)
 
 if __name__ == "__main__":
     main(stock_list)

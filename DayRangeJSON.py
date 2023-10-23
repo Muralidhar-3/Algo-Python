@@ -37,6 +37,10 @@ stock_list = ['HDFCBANK.NS', 'ICICIBANK.NS', 'AXISBANK.NS', 'SBIN.NS', 'BAJFINAN
               'INDIAMART.NS', 'AMBUJACEM.NS', 'SRF.NS', 'COROMANDEL.NS', 'RAMCOCEM.NS', 'NAVINFLUOR.NS',
               'ABCAPITAL.NS', 'ABB.NS', 'JKCEMENT.NS', 'BATAINDIA.NS', 'ABBOTINDIA.NS', 'MFSL.NS',
               'CUMMINSIND.NS', 'SIEMENS.NS', 'IEX.NS', 'ATUL.NS', 'ACC.NS', 'DELTACORP.NS', 'CONCOR.NS',
+              'DALBHARAT.NS', 'INDIGO.NS', 'LT.NS', 'L&TFH.NS', 'BEL.NS', 'ABFRL.NS', 'RECLTD.NS',
+              'BHARTIARTL.NS', 'ADANIENT.NS', 'GRASIM.NS', 'AARTIIND.NS', 'PIDILITIND.NS', 'CHAMBLFERT.NS', 
+              'CUB.NS', 'BERGEPAINT.NS', 'ULTRACEMCO.NS', 'BHEL.NS', 'SYNGENE.NS', 'CANFINHOME.NS', 'VOLTAS.NS',
+              'ADANIPORTS.NS', 'TATACOMM.NS', 'TITAN.NS'
             
               ]
 
@@ -63,10 +67,15 @@ def check_day_range(stock_symbol):
             day_range_high = data_after_915['High'].max()
             day_range_low = data_after_915['Low'].min()
 
+            # Get the closing price for the last minute of data
+            closing_price = data['Close'].iloc[-1]
+
+
             # Store the data in the stock_data dictionary
             stock_data[stock_symbol] = {
                 'Day Range High': day_range_high,
-                'Day Range Low': day_range_low
+                'Day Range Low': day_range_low,
+                'Closing Price': closing_price
             }
 
             # Print the stock symbol and its opening range after 9:15
@@ -93,7 +102,7 @@ def save_stock_data_to_json():
             file_name = f"stock_data_{today_date}.json"
             
             # Save the stock data to a JSON file
-            with open(file_name, 'w') as json_file:
+            with open('stock_data.json', 'w') as json_file:
                 json.dump(stock_data, json_file, indent=4)
             print("Stock data saved to stock_data.json")
     
