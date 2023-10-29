@@ -1,7 +1,6 @@
 import yfinance as yf
 import time 
 from datetime import time as dt_time
-import concurrent.futures
 from datetime import datetime, timedelta
 import warnings
 import requests
@@ -44,13 +43,13 @@ def send_slack_notification(message):
         print(f"Error sending Slack notification: {e}")
 
 # Define the symbols of the NSE-listed stocks you want to track
-stock_list = ['UBL.NS', 'IGL.NS', 'BAJAJ-AUTO.NS', 'HAVELLS.NS', 'LTIM.NS',
-              'ABFRL.NS', 'VOLTAS.NS', 'HINDUNILVR.NS', 'ULTRACEMCO.NS', 'PVRINOX.NS', 'MPHASIS.NS',
-              'TATACOMM.NS', 'HINDCOPPER.NS', 'ITC.NS', 'TATAMOTORS.NS', 'COFORGE.NS', 'BAJFINANCE.NS', 
-              'NTPC.NS', 'ADANIENT.NS', 'POLYCAB.NS', 'ONGC.NS', 'BANDHANBNK.NS', 'FEDERALBNK.NS', 
-              'PERSISTENT.NS', 'POWERGRID.NS', 'RELIANCE.NS', 'DABUR.NS', 'HEROMOTOCO.NS', 'MCX.NS',
-              'COALINDIA.NS', 'MARUTI.NS', 'CROMPTON.NS', 'DIVISLAB.NS', 'INDIGO.NS', 'GNFC.NS',
-              'KOTAKBANK.NS', 'ADANIPORTS.NS', 'WIPRO.NS', 'DIXON.NS'
+stock_list = ['DIXON.NS', 'COLPAL.NS', 'SHRIRAMFIN.NS', 'RBLBANK.NS', 'AXISBANK.NS',
+              'PNB.NS', 'CANBK.NS', 'BAJFINANCE.NS', 'ASIANPAINT.NS', 'RELIANCE.NS', 'HDFCBANK.NS',
+              'M&M.NS', 'TATASTEEL.NS', 'LICHSGFIN.NS', 'MARUTI.NS', 'ADANIENT.NS', 'INDHOTEL.NS', 
+              'TITAN.NS', 'RECLTD.NS', 'TATAPOWER.NS', 'TATAMOTORS.NS', 'BAJAJFINSV.NS', 'POLYCAB.NS', 
+              'DLF.NS', 'DRREDDY.NS', 'PERSISTENT.NS', 'BAJAJ-AUTO.NS', 'INFY.NS', 'UPL.NS',
+              'HAL.NS', 'L&TFH.NS', 'ITC.NS', 'INDUSTOWER.NS', 'IDFCFIRSTB.NS', 'IRCTC.NS',
+              'TRENT.NS', 'IDFC.NS', 'MANAPPURAM.NS', 'IEX.NS', 'ONGC.NS'
               ]
 
 # Create a dictionary to store the last alert time for each stock
