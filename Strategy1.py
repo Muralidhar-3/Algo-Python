@@ -43,12 +43,13 @@ def send_slack_notification(message):
         print(f"Error sending Slack notification: {e}")
 
 # Define the symbols of the NSE-listed stocks you want to track
-stock_list = ['COALINDIA.NS', 'SAIL.NS', 'HINDCOPPER.NS', 'BIOCON.NS', 'GLENMARK.NS',
-              'MCDOWELL-N.NS', 'NMDC.NS', 'VEDL.NS', 'GODREJPROP.NS', 'TATACHEM.NS', 'INFY.NS',
-              'ONGC.NS', 'ASHOKLEY.NS', 'MOTHERSON.NS', 'BHEL.NS', 'PFC.NS', 'AUBANK.NS', 
-              'MANAPPURAM.NS', 'AUROPHARMA.NS', 'EICHERMOT.NS', 'RECLTD.NS', 'DIVISLAB.NS', 'SUNTV.NS', 
-              'TRENT.NS', 'M&M.NS', 'NTPC.NS', 'MCX.NS', 'LUPIN.NS', 'BAJFINANCE.NS'
-              ]
+stock_list = ['SAIL.NS', 'TCS.NS']
+# stock_list = ['COALINDIA.NS', 'SAIL.NS', 'HINDCOPPER.NS', 'BIOCON.NS', 'GLENMARK.NS',
+#               'MCDOWELL-N.NS', 'NMDC.NS', 'VEDL.NS', 'GODREJPROP.NS', 'TATACHEM.NS', 'INFY.NS',
+#               'ONGC.NS', 'ASHOKLEY.NS', 'MOTHERSON.NS', 'BHEL.NS', 'PFC.NS', 'AUBANK.NS', 
+#               'MANAPPURAM.NS', 'AUROPHARMA.NS', 'EICHERMOT.NS', 'RECLTD.NS', 'DIVISLAB.NS', 'SUNTV.NS', 
+#               'TRENT.NS', 'M&M.NS', 'NTPC.NS', 'MCX.NS', 'LUPIN.NS', 'BAJFINANCE.NS'
+#               ]
 
 # Create a dictionary to store the last alert time for each stock
 last_alert_time = {stock: None for stock in stock_list}
@@ -67,10 +68,11 @@ def check_entry_conditions(stock_symbol, stock_data):
         data = stock.history(period="1d", interval="5m")  # Fetch 5-minute interval data
 
         # Calculate the opening range and high of the opening range breakout
-        opening_range = data.between_time('09:15', '09:30')  # Assuming the market opens at 09:15 and closes at 15:30
+        opening_range = data.between_time('09:15', '10:30')  # Assuming the market opens at 09:15 and closes at 15:30
         high_of_opening_range = opening_range['High'].max()
         low_of_opening_range = opening_range['Low'].min()
-
+        print(opening_range)
+        print(high_of_opening_range, low_of_opening_range)
         high_crossed = False
         low_crossed = False
         latestPrice = round(data.iloc[-1]['Close'], 2)
